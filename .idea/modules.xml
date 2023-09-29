@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QLChuaver5-master.iml" filepath="$PROJECT_DIR$/.idea/QLChuaver5-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QLChuaver5-master/QL_Chua.iml" filepath="$PROJECT_DIR$/QLChuaver5-master/QL_Chua.iml" />
+    </modules>
+  </component>
+</project>
